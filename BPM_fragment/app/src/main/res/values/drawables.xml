@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="when_pressed" >#ff0923a7</drawable>
+    <drawable name="when_default">#ff1743e7</drawable>
+    <drawable name="when_pressed2" >#ffaa0000</drawable>
+    <drawable name="when_default2">#ffff0000</drawable>
+</resources>
